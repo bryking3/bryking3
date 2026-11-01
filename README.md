@@ -4,7 +4,8 @@ Ich studiere Wirtschaftsingenieurwesen und probiere mich gerade an
 Softwareentwicklung aus. Interessiert hat mich das schon lange: Früher habe ich
 ein, zwei Minecraft-Mods gebaut, ein bisschen C++ kann ich auch. Jetzt will ich
 mit Python und Claude Code Projekte und Ideen umsetzen, die mich schon länger
-beschäftigen.
+beschäftigen. Ich möchte hier gerne lernen, ausprobieren und freue mich villeicht
+jemandem mit meinen Projekten inspirieren, oder unterstützen kann.
 
 ## Woran ich gerade arbeite
 
