@@ -26,10 +26,13 @@ Nebenbei lerne ich daran agiles Arbeiten mit Jira und GitHub.
 
 ### 📚 Lernen mit KI
 
-Im Studium lerne ich viel mit KI: Vorlesungen gemeinsam durchgehen, Inhalte
-zusammenfassen, Quizfragen und Probeklausuren üben. Daraus soll ein System
-werden, das sich für jedes Modul schnell einrichten lässt, damit ich nicht
-jedes Mal von vorne anfange.
+Im Studium lerne ich schon lange mit KI: Vorlesungen gemeinsam durchgehen,
+Inhalte zusammenfassen, Quizfragen und Probeklausuren üben. Über die Zeit sind
+dabei viele Einzellösungen entstanden, jede für ein Modul oder einen Zweck.
+
+Die möchte ich jetzt zu einem fertigen Konzept zusammenbauen: ein System, das
+sich für jedes Modul schnell einrichten lässt, damit ich nicht jedes Mal von
+vorne anfange.
 
 ## Stand
 
